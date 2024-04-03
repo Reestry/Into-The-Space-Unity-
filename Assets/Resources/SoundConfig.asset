@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8079472e726ecad42a5c5bcf586b577e, type: 3}
+  m_Name: SoundConfig
+  m_EditorClassIdentifier: 
+  _soundDictionary:
+    Keys:
+    - Shoot1
+    - Shoot2
+    - Explosion
+    - Ambient
+    - Ultimate
+    - Ambient2
+    - Click
+    Values:
+    - {fileID: 8300000, guid: 9d3ca84ab3188d44782c1da52fd1b2e5, type: 3}
+    - {fileID: 8300000, guid: 6d688b70821fa52498579885eaaee288, type: 3}
+    - {fileID: 8300000, guid: f919dd6d404e8544f91ccb204b0dd6d4, type: 3}
+    - {fileID: 8300000, guid: 537fb72f454199449a3fff8d21441699, type: 3}
+    - {fileID: 8300000, guid: 5f2855afbd2576a418845edd1b4693bc, type: 3}
+    - {fileID: 8300000, guid: ca3fe2286a3fa0f42b3d1c6881e9c670, type: 3}
+    - {fileID: 8300000, guid: 433ef10f0cdd98442a812b140735c1c1, type: 3}
